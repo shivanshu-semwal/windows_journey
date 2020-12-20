@@ -26,7 +26,7 @@ And here is a list of `terminal`'s you can use
 * `Hyper` electron based
 * `ConEmu`
 * `Putty`
-* 'minTTY`
+* `minTTY`
 
 and the 📃 goes on ...
 
