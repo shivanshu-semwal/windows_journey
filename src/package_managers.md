@@ -6,4 +6,4 @@ Here are some package managers for windows.
 * [`NuGet`](https://www.nuget.org/) 🎈
 * [`Chocolatey`](https://chocolatey.org/) 🍫
 * [`Scoop`](https://scoop.sh/)
-* [PowerShellGallery](https://www.powershellgallery.com/)   
+* [`PowerShellGallery`](https://www.powershellgallery.com/)

@@ -5,3 +5,7 @@
 * [Window Subsystem For Linux](./src/wsl.md) 🐧
 * [Package Mangers](./src/package_managers.md) 🎁
 * [Resources for Windows](src/resources.md) 🛒
+
+---
+
+To contribute 👨‍💻👩‍💻 read [CONTRIBUTING.md](./CONTRIBUTING.md).
