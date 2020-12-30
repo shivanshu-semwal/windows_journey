@@ -2,6 +2,7 @@
 
 Here are some tools that you will find useful while using windows.
 
+---
 
 * Open source software - 💚
 * Free software
@@ -10,6 +11,7 @@ Here are some tools that you will find useful while using windows.
 * Shareware 💲
 * Freeware 🟦
 
+---
 
 
 * [Open Hardware Monitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - helps to check the temperature of components, etc. 💚
